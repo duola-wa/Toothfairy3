@@ -1,5 +1,5 @@
 # Toothfairy3
-This chanllenges consists of two tasks:
+This chanllenge consists of two tasks:
 
 Task 1: Fast Multi-Structure Segmentation in CBCT Volumes. Please refer to the link: [....](https://github.com/duola-wa/MICCAI-2025-ToothFairy3-Task-1)
 
